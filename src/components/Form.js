@@ -61,7 +61,7 @@ export const Form = () => {
                 <input type="email" placeholder="Email" onChange={emailChange} />
               </div>
               <div className="col">
-                <input type="text" placeholder="Ph Number" onChange={numberChange} />
+                <input type="text" placeholder="Phone Number" onChange={numberChange} />
               </div>
             </div>
             <div className="row message">
