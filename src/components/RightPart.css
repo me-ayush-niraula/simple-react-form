@@ -1,0 +1,31 @@
+img {
+  width: 60%;
+}
+
+.mainImg {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.specialText {
+  color: #f96aad;
+}
+
+.information {
+  text-align: center;
+  margin-top: 8px;
+  font-size: small;
+}
+
+.footerr {
+  margin-top: 30px;
+}
+
+.footerr a {
+  color: #1b2253;
+  background-color: #f96aad;
+  padding: 2px;
+  border-radius: 4px;
+  margin-left: 4px;
+}

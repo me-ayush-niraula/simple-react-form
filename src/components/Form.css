@@ -1,0 +1,65 @@
+.formBack {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  background-color: #f96aad;
+}
+
+.formDiv {
+  width: 800px;
+  display: flex;
+  justify-self: center;
+  align-self: center;
+  background-color: #1b2253;
+  color: white;
+  padding: 12px;
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(16, 16, 16, 0.447), 0 6px 20px 0 rgba(30, 30, 30, 0.447);
+}
+
+h3 {
+  text-align: center;
+}
+
+.specialText {
+  color: #f96aad;
+}
+
+.phoneMail {
+  margin-top: 20px;
+}
+
+input {
+  background-color: #3e4364;
+  border: none;
+  color: rgb(213, 211, 211);
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.message {
+  margin-top: 20px;
+}
+input:focus {
+  outline: none;
+}
+
+.message input {
+  padding: 20px;
+  margin-left: 10px;
+  width: 80%;
+}
+
+.submitButton {
+  margin-top: 10px;
+  background-color: #f96aad;
+  padding: 6px;
+  border: 2px solid #f96aad;
+  border-radius: 4px;
+}
+.submitButton:hover {
+  background-color: #1b2253;
+  border: 2px solid #f96aad;
+  color: #f96aad;
+}
