@@ -1,3 +1,8 @@
+<p>A simple React registration form design using basic CSS and bootstrap, and passing the submitted information to console as object</p>
+
+<img width="752" alt="Screenshot 2022-12-26 170159" src="https://user-images.githubusercontent.com/115549871/209545599-753921e6-091b-4c04-ad4f-49f6791400e8.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with[Create React App](https://github.com/facebook/create-react-app).
